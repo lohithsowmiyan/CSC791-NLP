@@ -1,11 +1,12 @@
 torch
-transformer
 numpy
 pandas
 matplotlib
 nltk
-genism
+gensim
 xgboost
 vaderSentiment
-
-
+scikit-learn
+evaluate
+transformers[torch]
+accelerate>=0.26.0
