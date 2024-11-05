@@ -1,0 +1,302 @@
+index,id,News Headline Title,Label 1,Label 2a,Label 2b,Label 3,,Label 4a,Label 4b,Label 4c,Label 5,Label 6
+,,,Sensational/Objective,Victim Reference,Villain Reference,Villain,Victim,Effect Frames,Source Frame,Context Frame,War/Peace,Relevancy?
+666,c11b929b4fbb8a35079b636a20d3d840e12787d77dc456d2e118c818edde4073,"Rep. Rashida Tlaib, critic of Israel, silent on Hamas terror attacks as Israeli death toll climbs over 600",O,Directly,Directly,Hamas,Israel,VE,ES,WC,War,Relevant
+646,725031ac22b99019de1e13e6b28470aa87d89d86a78afbaf550f9cc0df71cffb,Negotiators push to extend Israel-Hamas cease-fire for second time as final hostage release looms,O,None,None,None,None,IE,PS,BC,Peace,Relevant
+310,f77e751af00fc9a5a3fa0e604398d52f55bcfd24f7624d4cc60ed6452b772c53,Can the US-led maritime force stop Yemen’s Houthi attacks during Gaza war?,O,None,None,None,None,VE,None,BC,None,Relevant
+724,39c7d311e27821bccfa4b5a286075d7855f138c0937c91dec7b678cf3f58ba42,Anti-Israel voters warn Harris won’t get their vote without a cease-fire: ‘This is our leverage’,S,None,None,None,None,IE,PS,BC,War,Relevant
+456,bcf8a85a34a811cd42963f9350d38f35a34c59a23ca4a8c90f2aca69069aa609,Palestinian journalists covering Gaza war win UNESCO press freedom prize,O,None,None,None,None,None,PS,BC,Unclear,Relevant
+239,c06b1ab7e50e4ed9e3449834d30a61d05be30420149b38b75d34568ffb6cf649,"Palestinian envoy: Israel plans to destroy, displace",S,Directly,Directly,Israel,Palestine,IE,ES,WC,War,Relevant
+75,7885fdc3ccac2740c9720c0f31e164ff90fb135e5894c0d00f968390d92e6c22,Israel presents Rafah evacuation plan but UN calls for immediate ceasefire,O,None,Directly,Israel,None,IE,ES,WC,Peace,Relevant
+771,f1aebf8ae435d1bcb94e9a0f5f75be72deb735fef47f39419ffc43e43f5bba22,College president tells anti-Israel protesters they aren't entitled to 'take over the whole university',S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+628,6cf377dded1a7b783a6fca0a3354a36a3c410dc203e914f084ecc77f789d0cd3,"Hamas terrorists branded Israeli children hostages in case they escaped, relative says",S,Directly,Directly,Hamas,Israel,VE,PS,WC,War,Relevant
+68,e2f918f52f941051b71d7140bde58fcb38141212ac810ae74aa286760731d21e,Israel-Gaza war: 'Violent' strikes reported in Gazan city of Rafah,S,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+440,89d4c1c717274594f59ab687a6154761959fba3484baf7cf57e7ba25f4f0ba92,US warship cruising Red Sea shoots down attack drones fired from Yemen,O,None,None,None,None,VE,None,WC,War,Relevant
+40,c6abcb40bd17bf6265befe79d854dfe4ebd733de5e6315839806bdf39c5196cb,Anti-Israel agitators descend on DC ahead of Israeli PM Netanyahu's address to Congress,O,Indirectly,Directly,Israel,Palestine,IE,PS,BC,War,Relevant
+605,516935ed1b1ef00137f81608b35ea992d23174c311148c1ebdaacf97f3e506ad,Israel-Hamas war: Names revealed of latest Israeli hostages released amid extended cease-fire,O,Directly,Directly,Hamas,Israel,IE,None,WC,Peace,Relevant
+386,3ebf175df5a8d06c282b76c9810c4378b9f890d92f8de09454632ca23432556d,"Al Jazeera journalist, cameraman killed in Israeli attack on Gaza",O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+527,181a7a76a2b0481f11119a9529fd4415226d5cbc140e7ee769cfe507f25dcd24,‘Jai Palestine’: Why an Indian MP invoked Gaza war while taking oath,S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+145,72573901d1ec1c5cddf58d7dab8c63cb4cbb6d2c1e3412d7470ebb432e6e653b,US Vice-President Harris presses Israel's Gantz on aid for Gaza,O,None,Directly,Israel,None,None,ES,BC,Peace,Relevant
+60,f1c9e087075232519bd179424ca844feba8e5528b5dbef569547457eed42e0dc,Hersh Goldberg-Polin: Gaza hostage's mother pleads for ceasefire deal,O,None,Directly,Palestine,None,IE,PS,WC,Peace,Relevant
+252,41c7f91ca804d0fcd889d9bb36f9c7a7c4332221a6fe857b8952e6b4344e7f4d,Sudan war: Threat of invasion in El Fasher leaves people in fear,O,None,None,None,None,None,None,None,Unclear,Irrelevant
+319,5c3119458daa97ce3d8081989a3773d04f420ab800a113f390d0bbe5765b8232,Photos: Israel pummels Gaza after Hamas’s unprecedented attack,S,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+549,27af5dd01b6f1985b26d5946a096f19805492a0f94fa1f97f033f34f4ab46637,Palestinian village fears Israel wartime demolitions,O,Directly,Directly,Israel,Palestine,IE,PS,BC,Peace,Relevant
+721,5c0e0b476dce358eb215787297a7824c3505371a5daa4b0a06fea4fb1f890d80,"Attacks against churches doubled in 2023, report warns: 'Growing disdain for Christianity'",S,None,None,None,None,VE,None,BC,War,Irrelevant
+101,3b9ff1b9f705d3595e3a6efdc8f1115bbfa6b62246d1bf9e35d59d14332311ae,"Tanzanian student in Israel: 'Shift change saved me, but my friends are Hamas hostages'",S,None,Directly,Hamas,None,VE,PS,WC,Peace,Relevant
+2,99d6dfb8407ff0bdd26aa72a1655168cbf53c477333f9804ebdbd56d31cb53c9,Who will hold Israel to account for committing war crimes?,S,None,Directly,Israel,None,IE,None,BC,Peace,Relevant
+312,0ea87a42bc7760717e9ba8c15c5105363e07862bf1772468f6f257ae91f1ec21,‘War crime’: Israel bombs Gaza church sheltering displaced people,S,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+546,adc3c7a855cc3952d64bed13c1a917768ffbd9cb878f68ac3bdb998c9608f50d,Israel’s war on Gaza triggered a war on free speech in the West,O,Directly,Directly,Israel,Palestine,IE,None,BC,War,Relevant
+772,6e117181c996f0e883141b2e7997c614298ba68792b9aed8d891bff6e0613fc2,College students express concerns as they expect anti-Israel protests to return to campus,O,None,None,None,None,IE,PS,BC,Peace,Relevant
+499,9e3a571edcf8e39093bc8cbd9b96db70e2d180f0c49bcf3097998ae470bbcfde,Israel’s war on Gaza: Challenging the narrative of a “just” war,S,Directly,Directly,Israel,Palestine,None,None,BC,Peace,Relevant
+30,b84e209e9276d697dd14a54050d985958786892b98f8e64834f878882d4a1dd0,College student dedicated to America's Civil War veterans in California 'honors their legacies',O,None,None,None,None,None,PS,None,None,Irrelevant
+298,a420b40b6a72556e81af87b2a8d4e9c20eb07b9faca287af329c25a4e24673f4,Hamas warns Israeli invasion of Rafah will ‘torpedo’ truce talks,S,Directly,Directly,Israel,Palestine,IE,ES,WC,War,Relevant
+439,6fdecf7cfa0b0c4423c88a24b9249e828fe19221ded2c0b8803d79825f6b4a02,Bombs and viruses: The shadowy history of Israel’s attacks on Iranian soil,S,Indirectly,Directly,Israel,Hamas,IE,None,BC,Unclear,Relevant
+661,5576bd2d5b84a24f1eda32e8747eb75747d1398dde7a29366f722fdc9fbe358c,Doctor who walked out of meeting with Biden 'not satisfied' with president's stance on Israel-Hamas war,O,None,None,None,None,IE,PS,BC,Unclear,Relevant
+412,6584b1ac36e3a11689a1b1b57612cf010abd5068f78db809e3ba8d831237b1ce,"UN experts demand ceasefire, warn Gaza is ‘running out of time’",S,Directly,None,None,Palestine,VE,ES,BC,Peace,Relevant
+674,67a7c45c87029919d7cd82e40bbaeeacd1c3cd3888541f0134d4f53674367548,"Netanyahu calls Mideast conflicts choice between 'blessing or a curse,' warns about Israel's 'long arm'",S,Indirectly,Directly,Israel,Palestine,VE,ES,WC,War,Relevant
+596,27f1b822078d9e0b192fcdb32cf9ee2100aa287e04c10a205e29fcd11f43cc08,Protestors unfurl ‘war crimes’ banner on Australian parliament,O,None,None,None,None,IE,PS,None,Unclear,Irrelevant
+196,385e8be8ec5a6193ca5563ea734d3f64c5e07391f6577fb7a52adf47a313bc6c,SNP asks PM to call Israeli actions a ‘war crime,O,None,Directly,Israel,None,IE,ES,BC,Peace,Relevant
+27,8c434ba195a456181bd589be91f338b28d4f0de46a4d3e4d6c9c733e4eeb6d15,Jerry Seinfeld mocks anti-Israel hecklers during Melbourne show: You 'just gave more money to a Jew',O,None,None,None,None,IE,ES,BC,Unclear,Relevant
+787,be07afda6aafa8be748fad5661cd876c997ba6f70344fa43e189208c4d640082,"President Biden tells crowd 'I am a Zionist' at Hanukkah ceremony, condemns silence on antisemitism",S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+478,08c88456421a8c375e74112014b52a91d50b100a309db167ce5d9fded7d5d75d,"Columbia, NYU, Yale on the boil over Israel’s war on Gaza: What’s going on?",S,None,None,None,None,IE,PS,BC,Unclear,Relevant
+390,db3c464699e6c6a003eb0aa4ed7426a7a1e689295b9a8f4ed85c6832275bd1b4,Iran’s Khamenei warns Israel that bombardment of Gaza could bring response,O,Directly,Directly,Israel,Palestine,VE,ES,BC,War,Relevant
+662,6cadb56232a585aef49ba9082f7c445119ae575d0a92c884aa601ec7249e799e,Saudi Arabia switches focus from Israel to Iran to cool tensions following Hamas terrorist attack: report,O,None,Directly,Hamas,None,VE,ES,BC,Peace,Relevant
+18,c1d90139df251686ede3497cef3b91a8a82e8f557cf2831d94578c5fd5585b1f,Fetterman reams out NY Times for platforming terrorist propaganda after interview with senior Hamas official,S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+50,00e09ff42844b07888f030b5b73490c9387281295be4931b7eb623963be5df46,"Israel-Hamas war: Ceasefire in Gaza chances shrinking, Qatar says",S,Directly,None,None,Palestine,VE,ES,BC,Unclear,Relevant
+140,048fd5d209d59e7fd7c7811a379973e15491466d414409610d6957deff40a50d,Hamas hostages: Stories of the people taken from Israel,O,Directly,Directly,Hamas,Israel,IE,None,BC,Peace,Relevant
+570,44f82d1b47c24aed8b3eabe8efeb4c270b19091fdadb106d85a07fb1b7d33c9a,Sudan war mediators welcome new pledges on humanitarian access,O,None,None,None,None,IE,PS,None,None,Irrelevant
+842,d7dd61bce9b8a1c6473479e744bb4460ebd6c1b030c1e7d193c12b1917ff66a2,Maryland AG reinstates hate crime task force member who claimed Israeli babies murdered by Hamas were 'fake',O,None,None,None,None,IE,ES,BC,War,Relevant
+425,5331d0e3203445009a52ad182528e0977ad1c98a661317324a166232b26a4f35,France’s Macron calls for arms sales ban on Israel as Gaza war nears a year,O,None,None,None,None,IE,ES,BC,Peace,Relevant
+650,2377045d75e4d1b2da0a8224cd78bce3b50e7545f2b86d41fdf8e145bb58cb27,"UN's 'Pact for the Future' full of empty promises, will be 'cudgel' to attack the United States, expert warns",S,None,None,None,None,VE,ES,None,None,Irrelevant
+62,fe2fcdf9e9f5b6077b8eaf75f501751657a9ca86f595566f4444d176e55e351c,Inside West Bank district under harsh Israeli lockdown since Hamas attack,O,Indirectly,Directly,Hamas,Israel,VE,None,WC,War,Relevant
+351,07323009149f1e01cb038d53231470513538d23ea211c2e8ee8ad824b2e5e186,Aid trucks enter Gaza after weeks as Israeli attacks continue across strip,O,Directly,Directly,Israel,Palestine,VE,None,WC,Peace,Relevant
+828,878b94a7beaee23b8e8828199b637a783f74a4faadb0bb74cc12a3943b9334dd,"Shooter who killed NJ imam still on the loose, $25K reward offered for arrest",S,None,None,None,None,VE,None,BC,None,Irrelevant
+492,963bdfef07bb02250571d6ce2f3950932d5eb3aa13f446dd40074406238bb0e0,"‘Israeli warning’: Beirut bombing sparks anger, fear in Lebanon",S,None,Directly,Israel,None,VE,None,WC,War,Relevant
+118,f7ef280bd27ed5294ff9b6a00f546bcd0014f312a0f2edd1358aae45b152095b,Tributes for 'brave' British-Israeli father murdered in Hamas attack,S,Indirectly,Directly,Hamas,Israel,VE,None,WC,Peace,Relevant
+12,05544aaddf8fc71f4237da553f9ee2d578de8472488bce2e19c48ed97cc2bc0b,Pope says democracy ‘not in good health’ as he warns against populists,S,None,None,None,None,IE,ES,None,None,Irrelevant
+408,dbe114d03a474c271b1d03a3550d424a413fa7274761eed3ca509ed0d055781b,Israel bombards Gaza’s Rafah as ground offensive looms,O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+443,be0d9ae6ed9379e5c465dd50ca91b29f8d94321c15fd5e53701434f08d0290c8,What are the prospects for talks to end Israel’s war on Gaza?,O,None,None,None,None,None,None,BC,Peace,Relevant
+200,dcbd7e6806b548f22c4528b93b9926593bbf62f32137c2649a9858d4a1b1f30f,I thought just kill me quickly': Gaza hostage's 54 days in captivity,S,Directly,None,None,Palestine,IE,PS,WC,Peace,Relevant
+299,529bcdab9b94f5fe415562b9923dd97fe21c4e11cf4e0bce04ae731601b3ed74,Israeli attacks kill over a dozen people as war on Gaza enters 12th month,O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+304,3a89b1d19860c22c064614c11797f6d9cbc5a216554df58c59c0fe626b307d56,Israeli army and settler attacks against Palestinians in West Bank increase,O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+751,5e2edae2f7260cfcc7330ecfb6eb6aaef1b2093ac3d382f0a28ee183f58dde8a,John Fetterman to receive top Jewish college's highest award for his stance on Israel,O,None,None,None,None,IE,ES,BC,Unclear,Relevant
+267,680fc91b9e11ff994ea45fb0d0f8e2e97d5d1f6942dcaafd1fd495116ad73a6a,"UK ban on selling arms to Israel would strengthen Hamas, says Cameron",O,None,None,None,None,IE,ES,BC,Unclear,Relevant
+688,2dcd3ae03b3646d86be07b5340bebda9aa874a93bbef9561c588b64e988f4522,Iranian official who reportedly helped Hamas plan Israel attack is seen shaking hands with UN aid leader,O,Directly,Directly,Hamas,Israel,IE,ES,BC,War,Relevant
+266,c49f196d8ebedf8d01fd855699b2f66ff9e048a9abbae4306187535834914257,Bowen: Tough choices for Netanyahu after Hamas upends expectations,O,Directly,Directly,Hamas,Israel,IE,ES,WC,Unclear,Relevant
+249,fcce4672687184dbb7eb2ba2d27d55be42e091f968ad9956bf423a2bbd518bbd,Russian arms depot erupts after a Ukrainian drone attack,S,None,None,None,None,None,None,None,None,Irrelevant
+612,b13fbf9b52d622953302d885231712bb9e1866a2317c7ab891706d03ebcd137a,Iran will attack Israel if Gaza ceasefire talks collapse: report,S,Directly,None,None,Israel,VE,None,WC,War,Relevant
+577,3a339d20bbd9d21bedb0d123c07bbd8021942208ab70503fed37c3c5b521661b,Israel is repeating its Gaza assault in Lebanon. Why?,S,None,Directly,Israel,None,VE,None,WC,War,Relevant
+337,980382c9ab8cd5df8e388d802ff4ab68d21c45752ab8ce1b95d17061ccaa0433,What’s blocking a ceasefire in Israel’s war on Gaza?,O,None,None,None,None,VE,None,WC,Peace,Relevant
+453,00e5bf005e56779506ec45ddd537cef081da69560c8a8af8fb54b112a3539a12,UN experts say grounds to believe rape occurred in Hamas attack on Israel,O,Directly,Directly,Hamas,Israel,VE,ES,BC,War,Relevant
+251,eefb9cc4a6fbfdd2502d8bef03730c35956048705d52a2ef31046f63e1411e70,Israel conducts more airstrikes on Hezbollah targets,O,None,Directly,Israel,None,VE,None,WC,War,Relevant
+482,5697dfeaa8b2700871861f50842843201aae12b0abb8fd3df5393fa22a7bde6b,"UN experts warn of Israeli violations against Palestinian women, girls",O,Directly,Directly,Israel,Palestine,VE,ES,BC,Peace,Relevant
+817,d0fdf30416a246b133fb07ddc4d1b23f6071fa8fd03af1e781f7e93025479384,BBC Chair denies plea from 200 Jewish staffers calling for formal probe into antisemitism at the newsroom,O,None,None,None,None,IE,ES,BC,Unclear,Relevant
+585,26694b16f95ef455998d3c42d4fd9497788e29e6cefa3ea66cbe7034e34106ea,‘Disastrous failure’: How Biden emboldened Israel to attack Lebanon,S,None,Directly,Israel,None,IE,ES,BC,War,Relevant
+643,5a4c2cbe79000945f11effa40793c5234b6df056710d9c612f491a141abf006a,"Crisis in California: Hamas-style attack could happen to us, border mayor warns as migrant surge continues",S,None,None,None,None,IE,PS,BC,War,Relevant
+261,0aca1e6ed8be5c5e6c79fab136e01306529bd1a5ac1f63ecd447d30a0309103b,US university Gaza protests intensify,O,None,None,None,None,IE,None,BC,Unclear,Relevant
+706,61bf6360facb2620cd15fefcb19d19347716a59a0067e17dbda54425181b9a62,Iraqi air base housing U.S. troops attacked with rockets amid escalating tensions in Middle East: report,O,None,None,None,None,IE,None,BC,War,Relevant
+97,07a2857726382ebcfbd51c039b1b0da1ae041a82fe22e40ad7b2d06bd448f04b,Tanzanian students taken hostage by Hamas in Gaza named,O,None,Directly,Hamas,None,VE,PS,WC,War,Relevant
+538,d155d61e50fc3bf7c5622c2f3249ca142f35a3dcf768ebd8d6b3f800e8668204,Israel’s war on Gaza: The view from China,O,Directly,Directly,Israel,Palestine,None,None,BC,None,Relevant
+364,5898d4c5774e9b5684a6eeceec32c8412d3a63450a2b2a0607c14078631c386d,"Gaza has lost 61 percent of jobs due to Israel-Hamas war, UN agency says",O,Directly,None,None,Palestine,IE,ES,BC,Peace,Relevant
+593,14fe9dbea4c5763dcaced3de515ecadf5bb15df2d6ed85fc41c697a4e92f5b15,Israel white phosphorous attacks on Lebanon harming people and ecosystem,O,None,Directly,Israel,None,VE,None,WC,War,Relevant
+320,b029b4922fbd7b508dce4bae1b4d2967cdd178792cf069e1f1136b5ff1e85bb4,Israeli minister challenges Netanyahu over Gaza’s post-war future,S,None,None,None,None,IE,ES,BC,Peace,Relevant
+830,aeec358a661cdce6528b1a96736456c4c5abf5bc4b41a28aaeb3cb2aa9d849e2,Yemen's Houthis claim responsibility for striking Norwegian tanker Strand in latest attack,O,None,None,None,None,VE,ES,None,None,Irrelevant
+85,254019a69474ba686575ff91120aca4ae5e7d9ed5280777231c1f27fd9f75453,Gaza war: Hopes for ceasefire falter ahead of Ramadan,O,Directly,None,None,Palestine,IE,None,WC,Peace,Relevant
+884,ea8c532cf136397163ceacd9ca9d607d98547a3f755120ed1cfba36186ae405c,"Hezbollah relies on 'sophisticated' tunnel system backed by Iran, North Korea in fight against Israel",S,None,None,None,None,None,None,BC,War,Relevant
+729,85979de7c8801077466d9ec46be09256ce48957db400b7faa9ccc97726ca5265,"Biden administration warned Iran before ISIS attack Jan. 3, US official says",O,None,None,None,None,IE,ES,BC,Unclear,Relevant
+193,a67cfb0c0c8a047028dd317e02faf160fa3a61c316946fc374d130ebecf95956,Biden appoints CIA chief to broker Israeli hostage deal,O,Directly,None,None,Israel,VE,ES,BC,Peace,Relevant
+656,ec65839060aa46229da50ee7dd6bfb3e674169026a7e24669398314a95b4796f,"Biden officials rebel against president on Israel-Hamas war, sign dissent letter",O,None,None,None,None,IE,ES,BC,None,Relevant
+831,7394e2caa1d5360994c7e88e7fbf17cf5d1c1059003292cdd572628a3e778bd9,Trump expected to slam Harris on 3rd anniversary of deadly Afghanistan attack that killed 13 Americans,S,None,None,None,None,None,ES,None,None,Irrelevant
+462,ec7074123a74f6d73c533f5e293de1cd073f3810b12a26b9bc26dcb9e6777d4a,Israel steps up ground and air attacks in Shujayea as Gaza death toll rises,O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+331,23dff43676de5236e01bf46d3206584a218480e4f0a629445a0e3e32e76ae738,ICC prosecutor seeks arrest warrants for Israeli and Hamas officials,O,None,None,None,None,IE,ES,BC,Peace,Relevant
+686,6964ae54e12013bb45795b7d356c74e9e38872b3265eeaeba2fefeb04c453b55,Israeli military sees Hamas war lasting through all of 2024: report,O,None,None,None,None,IE,None,WC,War,Relevant
+52,b8cf3fbb3291e20dd96d6f0aee715d50b03344575d54ba9a40984b967feb6ad6,Israel Gaza: Antisemitic incidents 'triple in UK' since Hamas attack,S,None,Directly,Hamas,None,IE,None,BC,Unclear,Relevant
+832,b76e1c6a9143384dfdd4485d783308ae9f251bab1d0780b2e4ce9f8245a7833c,Top Obama official's attack on Biden's foreign policy failures resurfaces after 3 US soldiers killed,O,None,None,None,None,VE,ES,None,None,Irrelevant
+854,7be72798374bfaae1464514735ee49d47e14f7ec0159925687d4a152e8dc578f,Israel confirms strike on compound in civilian area of Gaza targeting Oct. 7 mastermind,O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+500,0dfa52fbbf4425b45cc6a5abbb6b73c63f14d64bd19ebd09d511c28f32579f36,Biden says Netanyahu not doing enough to secure Gaza ceasefire deal,S,None,Directly,Israel,None,VE,ES,BC,Peace,Relevant
+418,ad3732317efdaccbeaa50eca5bf69dc6a9eb80da6ece072f3a9fff116350e1c9,Amnesty calls for war crimes probe over Myanmar military bombing of church,O,None,None,None,None,None,None,None,None,Irrelevant
+413,7f37a65f799ec91c88fdbb59417dd252d65f6b78b3bc8a35668d898b13565b94,"Hamas, Israel leaders suggest deal is ‘close’ on captives, Gaza truce",O,None,None,None,None,IE,ES,WC,Peace,Relevant
+743,c69b9dccb6d507c30540091903d6b4e64be8a8e037b73bfbfec7d3ee16869432,"3 years after US withdrawal from Afghanistan, Israel looks to lessons learned from War on Terror",O,None,None,None,None,IE,None,BC,Peace,Relevant
+620,509d5363b581a63f6bc70bd776f0e1ade981e4701ca1009b195d91b913c5b174,"Brazilian president compares Israel-Hamas war to Holocaust, Netanyahu says he crossed a line",S,None,None,None,None,IE,ES,BC,War,Relevant
+367,bc1ab8f10cfa93721e44ff866359698ef5e2a2f3a39c543287448ead2df3109a,"Israel detains, expels to West Bank hundreds of Gaza Palestinian workers",S,Directly,Directly,Israel,Palestine,IE,None,WC,War,Relevant
+848,f0ad5146392fb4ce35bf0afc804786da0a1285a2890d7e9844af7c4961a1fa07,Hamas survivor refutes progressives downplaying terrorists' sexual violence,O,None,Directly,Hamas,None,IE,PS,BC,War,Relevant
+864,4766375890b55de99578df33c7a063819e3e5db55a9b5fffa3193708f5b35f78,An absolute disgrace': Senate Republicans condemn Palestinian Authority's UN bid to undermine Israel,S,None,None,None,None,IE,ES,BC,Peace,Relevant
+395,caabb5596d4e3159f89c30a64b19dec708786e62e26e82f02ce54199324e0c58,Palestinians ‘starving’ in northern Gaza as Israel presses assault,S,Directly,Directly,Israel,Palestine,IE,PS,BC,Peace,Relevant
+231,eecee0231f7fdad704796edb1ca3f55235f84de33a99d21f74ecf8cf052a3ac8,Washington ramps up the search for a ceasefire in Gaza,O,None,None,None,None,IE,ES,BC,Peace,Relevant
+311,9f5e5db054f100339bcf752b19e6a0da53d3a8cd9b256f8847608a9ab48ecbeb,What’s happening in Gaza’s Rafah as Israel threatens to attack?,S,Indirectly,Directly,Israel,Palestine,VE,None,BC,Unclear,Relevant
+338,af6cc298d88085fef3a75a694152bf785851411118b69176b2db5c0fea0a5d0f,UCLA anti-Gaza war protesters vow to press on after arrests,O,None,None,None,None,IE,PS,BC,Peace,Relevant
+489,2c4192a2108e1c4a633720e953bbb510a4254556d2ece4a693ecc8ccd30a07d8,Crossbow assailant killed after attack at Israel embassy in Serbia,O,Directly,None,None,Israel,VE,PS,WC,War,Relevant
+846,eb8f039e61098d3d497dc217ba95257d059ee38e134b7a7e8fe61016435812f0,"Trump, Biden supporters sharply divided over 'culture war' and 'woke' issues: Here's where they stand",S,None,None,None,None,None,ES,None,None,Irrelevant
+813,a5ffa3532751a986ca2f47d104f2afd0fe2cecaf9b0b7df2396cc591d6ec34cf,"Jon Voight says daughter Angelina Jolie's stance on Israel, Gaza has been 'influenced by antisemitic people'",S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+627,5874bd4bc398523becce7f5e9743b11d1b0e0f02b3a136a2bce46b0bfea85f07,"Turkey’s Erdogan, on Israel-Hamas war, says West is ‘too weak to even call for a cease-fire’",S,None,None,None,None,IE,ES,BC,Peace,Relevant
+346,9a66f235860c8bbab0d9ed5bf6356fbda4d42264f17bd5ffd3e32a2cbf2c611c,Israeli military kills four in drone attack in occupied West Bank,O,Indirectly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+406,cb04b1333c3477ea2ca0fe95fd2f4e0f80804c2f3b62a46e92ac0793aa6f64ef,Photos: The staggering human toll of Israel’s war on Gaza,O,Directly,Directly,Israel,Palestine,VE,None,WC,Peace,Relevant
+655,ab7f73c5a8eb022e59f9b26e5628e5f63c1eca814e67b1c1271b6ea93a4602ad,"US ally Jordan rocked by pro-Hamas, Muslim Brotherhood protests over Gaza war",O,None,Indirectly,Hamas,None,IE,ES,BC,War,Relevant
+240,3233c1bd7673e6374edf92ccbaf3aa63d991e9efad683135dba4c758c0af3d88,Red Sea: UK defence secretary says British forces will repel Houthi attacks,O,None,None,None,None,VE,ES,None,None,Irrelevant
+513,0f7f63ed6338e028b87e2fec9cb4ab7f55193dac99cab4d175f135dc2dbdb4c5,"Israel’s war on Gaza: List of key events, day 125",O,Directly,Directly,Israel,Palestine,None,None,BC,None,Relevant
+567,f04d38f40be877357981d40f215a2bcf62fe126f7039709afd0eae89171964b2,Turkey restricts exports of 54 products to Israel until Gaza ceasefire,O,Directly,Directly,Israel,Palestine,IE,ES,BC,Peace,Relevant
+397,387563636f30d1e45c1976f04b706169e82e87fc37ed0b75c66809ca4180cc6e,Israeli forces arrest 28 Palestinians in raids in occupied West Bank,O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+278,f6e599d83dcd5c44ab76cb9dfdc5a1a72e8adc7fcda0a7e1a943689b871facdb,Hezbollah confirms death of leader Hassan Nasrallah after Israeli strikes on Beirut,O,None,Directly,Israel,None,VE,ES,WC,War,Relevant
+458,51c46be1648bf7e0a50725cf4b41d87ad4d8104ce407489f71a94998ca9ac170,Israeli military says 90 people killed in Gaza’s al-Shifa Hospital raid,O,Directly,Directly,Israel,Palestine,VE,ES,WC,War,Relevant
+317,964bcbe0368c318b46b33269b5846d945cc78cbb320c8969d2d5027bc63c5bda,Hundreds of university students arrested in US as Gaza war protests spread,O,None,None,None,None,IE,PS,BC,None,Relevant
+270,29126a9dc4d0fcf7a3dc235ae3f3a29cd0bcdc9ab7c79c55188d955c0c7ea023,Israeli airstrikes kill hundreds of people in Lebanon,O,None,Directly,Israel,None,VE,None,WC,War,Relevant
+65,074daecb9c66489af21a6cc4efb7ae2c6791ecf68eceb42d49850e56583cb0d7,Gaza: Israel summons Irish ambassador over Hamas hostage row,O,None,None,None,None,IE,ES,WC,Unclear,Relevant
+285,301912061d7874d9e48767843411ffda8654d404c4ad4a1619a4e446c367560f,Macron gambles on snap election,,None,None,None,None,None,ES,None,None,Irrelevant
+382,29e1243962937f70ccf21ff7510f3c8634a6bd6b07c797334833e3af0e7989b9,‘A genocidal war’: Surgeon says Israel strategically destroying Gaza health,S,Indirectly,Directly,Israel,Palestine,IE,PS,BC,Peace,Relevant
+342,94b4333cc97d3d18d04a211a9c63ccdb083d85e879a3946f058e897fac745f70,"World reacts to ICC prosecutor seeking Israel, Hamas arrest warrants",O,None,None,None,None,IE,ES,BC,Peace,Relevant
+403,99c8d883679cb8eefd808b011f99a92891e302e523994cae135c9d59982ef26e,Families of Gaza captives reject talk of death penalty for Hamas detainees,O,Directly,Directly,Hamas,Palestine,IE,PS,WC,Peace,Relevant
+844,2e92d005fd3e0e3b16faa9faa722c21d7914b6c8bea5a2d014fd9cefd0d12ab4,Houthis launch 2 new attacks on ships days after US strikes,O,None,None,None,None,VE,None,None,None,Irrelevant
+236,ec8fbb84f53cb62c5c225614424fa75cb340a20950a2005aa210f0428711a94a,âExterminate the beastsâ: How Israeli settlers took revenge for a murder in the West Bank,S,Directly,Indirectly,Palestine,Israel,VE,PS,WC,War,Relevant
+866,acb397b8cd823eb87c0d6039f4129783d2d0d91474751bdf199a050eff061255,IDF ops in Beirut bring closure for some; Hezbollah terrorists who killed Americans now dead,O,None,None,None,None,VE,None,BC,War,Relevant
+230,7c11860ac4afe97239cb34a275c2808c3880790ac8dccf6556a1e6ac39095331,US ready to try a new Gaza ceasefire at the United Nations,O,None,None,None,None,IE,None,BC,Peace,Relevant
+773,1323b5cf2e61d19c02e69f63dd8ad5ac103fe5c1b7026e8424a0c3277baaf1b7,"Bill Maher clashes with 'The View' co-host over Israel-Hamas war, 'woke'",O,None,None,None,None,None,PS,BC,Unclear,Relevant
+156,f1acf6593a94189f528f78de43d39342983e52e8afaea8f1a61ceb336d304c55,Israeli protesters stomp on aid packages destined for Gaza,S,Directly,Directly,Israel,Palestine,VE,None,BC,War,Relevant
+505,6df2093d6081010f2faef1f59a441fc7b205c8987d10af427b733e3bc6beba20,Who is arming Israel’s war on Gaza?,S,None,None,None,None,None,None,BC,Unclear,Relevant
+523,45d4b1d9a2996c7aca64d888b7649febb8aea68b701f69a8af16f102a12034ca,Israel-Gaza war: Is the US administration divorced from reality?,S,None,None,None,None,None,None,BC,None,Relevant
+247,323f5ab5c6cf83f70da07db98b2872eaf50ed9ed9d981afe105a9c21951b0aae,Watch: Indian navy rescues ship crew after Houthi attack,O,None,None,None,None,VE,None,None,None,Irrelevant
+652,50e1d918c64bcdcfae4013f3bea2a8d059bf7eb1818105112c9951e0836ccae3,"Israel says Hamas ‘violating’ cease-fire deal as detonations, gunfire target IDF troops",S,Directly,Directly,Hamas,Israel,VE,ES,WC,Unclear,Relevant
+698,07bc4f7bfab36fa15f84f0cdf7df3b2b661d30b9bea3752fceef2ea4acae4d05,"US in talks with Israel, other nations to secure temporary ceasefire with Hezbollah amid fears of wider war",O,None,None,None,None,VE,ES,BC,Peace,Relevant
+829,bb1160c6a500bfa9f23ec07faffba18f7a4599665fd914261c7760d53750ac9c,Israel warns US defense chief Iran aggression has ‘reached all-time high’,S,Directly,None,None,Israel,IE,ES,WC,Peace,Relevant
+55,c9ac269e6e18f5e362eed2b9ee23802a7df085859a46d4ae77da521041a259a7,Gaza war: UNRWA says Rafah aid centre hit by Israeli forces,O,Directly,Directly,Israel,Palestine,VE,ES,WC,War,Relevant
+293,6d59a3afa5ed205ba4762d227a471f9b14732b4a3f6d2cd941b535724c7ef8eb,Israel’s war on Gaza: Is the West Bank under increased attack too?,O,Directly,Directly,Israel,Palestine,IE,None,WC,War,Relevant
+460,061eda48c4c9a098d0284695e8857ca7b5d37474e3fd09d22aed8d4263009226,Israeli army steps up attacks across Gaza as top US official visits Israel,O,Directly,Directly,Israel,Palestine,VE,ES,WC,War,Relevant
+676,0f9572ee59830cafd9c826cba7f353cdf8615eaa50e4687b5bbf36777e983b87,Stop caving to the woke mobs': GOP ramps up attacks on vulnerable Dems amid anti-Israel campus unrest,S,None,None,None,None,IE,None,BC,War,Relevant
+759,e706fa6cd2c59b3d10e5ad3b625e3b6a447671bd11b7dc4a777e54021fe63705,"Father of Israeli-American hostage pleads for deal 'with Satan' before Biden, Harris enter Situation Room",S,Indirectly,None,None,Israel,IE,PS,BC,Peace,Relevant
+318,f1650de4d393b953e331357307ee747124fd9d24b1b067d6a97872963774dd00,‘Assault on free speech’: Chaos grips Britain as Israel-Hamas war flares,S,None,None,None,None,IE,None,BC,Peace,Relevant
+475,cc6ecd0576cbc01f0c3578934bc9fe77076eaf23ea5b11955ed16f7a9078fef7,UN accuses Israel of ‘massive’ violation of child rights treaty in Gaza,S,Directly,Directly,Israel,Palestine,IE,ES,BC,Peace,Relevant
+294,fc6e74f00f09317b0be59f5c723f8b21b18fad1d2455ea5c1d4c866e324d5663,Jewish student and peace group founder supports Gaza anti-war protests,O,None,None,None,None,IE,PS,BC,Peace,Relevant
+366,5b27f4a8ee82ac77b01cd0af399179cd8b020e37b6e4fe5eea8c93eb974ac120,Video: Israel keeps attacking UN school shelters in Gaza,O,Indirectly,Directly,Israel,Palestine,IE,None,WC,War,Relevant
+526,6c49892e3e914784ea78a2a3e1c9f45c658c783bb73faf339198e70b873a0efa,"Israel’s war on Gaza: List of key events, day 152",O,Directly,Directly,Israel,Palestine,None,None,WC,None,Relevant
+654,eb094f264b6dbc8a68353833b3acff647525834a517aba6b977671758de3015a,Biden’s dovish posture toward Iran emboldened Tehran in its attack on Israel: experts,S,Directly,None,None,Israel,IE,ES,BC,Unclear,Relevant
+214,e72b2fef79dc4f7b4e4b7153ded45bf4243b73b8662cd31ccf612fbcf6a58d6a,Gaza: many casualties at a camp for displaced Palestinians,O,Directly,None,None,Palestine,VE,None,WC,Peace,Relevant
+316,fd429fbde12c4f73a95bb5d2f0ae517d8f3fc87424b84dcc7e4c899a6f51f577,"‘No ceasefire’: Israel supporters gather in Washington, DC, amid Gaza war",S,None,None,None,None,IE,PS,BC,War,Relevant
+712,8554c534455d26ce844584e303bb19e963bdbe4212333d22a8b00c0dff89cd32,Netanyahu's 4 principles Israel agrees to for hostage deal as negotiations pick up,O,None,None,None,None,IE,ES,WC,Peace,Relevant
+703,5c838faf8bb2da004a7a664fbe035056e70da0ae6f22c82854f89f50febc28b8,Egypt setting up Gaza border shelter for Palestinians ahead of expected Israeli offensive in Rafah: report,O,Directly,Directly,Israel,Palestine,IE,None,BC,Peace,Relevant
+113,d21d8a5d43deda7a8c7bf9aa7df2fadbd4adb735d8853d810fcbec46ec319127,Gaza war: UN defends casualty tally amid Israeli anger,S,None,Directly,Israel,None,IE,ES,BC,Peace,Relevant
+861,05f299d9231cd8b0f2febe1d5ef656ce88cd674f861bc5225adb78c3050abd78,Chicago anti-Israel DNC protest groups handed loss by federal judge just days before start,O,None,None,None,None,IE,PS,BC,Unclear,Relevant
+653,0454e9824f7ef2f2a9c1096b3cd4f8fd3bd0b6c80331084d31226050bddc70c9,Hamas hostage is a fighter for Palestinian human rights: Grandson Daniel Lifschitz,O,Indirectly,Directly,Hamas,Palestine,IE,PS,BC,Peace,Relevant
+727,d09f63e4c5253833f25b63a34c9da98574b31e8728289e54d9d96f0a66ac61ea,Trump says 4 words about anti-Israel protests on college campuses as arrests skyrocket,S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+77,1ea78d9ca789e9cdf75bb87584e98b924f71a823a1c6716ba5f4d3bbd6e2408c,First hostages set to be freed by Hamas under Israel truce deal,O,Directly,Directly,Hamas,Israel,IE,None,WC,Peace,Relevant
+258,4c9833b3636afbac46091a8b8d9ed3e048db6618b8743824da9ea4b1e8f40d39,Will Félix Tshisekedi deliver war or peace for DR Congo and Rwanda?,S,None,None,None,None,None,ES,None,None,Irrelevant
+175,70ec4fd25bebf090419a2e5df6ceea571e3accc4900ce7e234150bbcd4b242e8,UN warns Middle East is on the brink of full-scale conflict,S,Indirectly,None,None,Palestine,IE,ES,BC,Peace,Relevant
+519,e94c60d2ef56ffbf4d0deb9ddd65e0eadf2425087190ebdc16dcc04ae463c7d5,Advocates demand justice after US protester killed in Israeli gunfire,O,None,Directly,Israel,None,VE,PS,BC,Peace,Relevant
+794,5f7c1dd570411450780eceea6ad63deea06ed2a421c2286a08000c8de67a9348,Israeli Prime Minister Netanyahu criticizes military’s plans for 11-hour daily pauses in fighting,S,None,Directly,Israel,None,VE,ES,WC,War,Relevant
+778,b2df2d37d793938473328d8757be5426a42bd47b0e80c24d6c766e2e4fe101c4,Israeli defense minister urges US cooperation against 'Iran and its proxies' as war with Hezbollah on horizon,S,None,None,None,None,IE,ES,WC,War,Relevant
+886,975ff0871ec4d8d64ce14e97ea9ee0da5f754fb6ec2307099fe49227d0620e97,"UK government official apologizes, pays damages after falsely accusing professor of supporting Hamas",O,None,None,None,None,IE,PS,BC,Peace,Relevant
+48,9aed24d6ec526e24c47396e349e09ee30fb09482dcc7817f6322a3f0374ad67e,Gaza: Israeli PM Netanyahu says Rafah attack will happen regardless of deal,O,Indirectly,Directly,Israel,Palestine,VE,ES,WC,War,Relevant
+737,e151b313239b7f90971606cf91049a2dfa018b081735957b218db1493ea37978,Fox News ‘Antisemitism Exposed’ Newsletter: Pro-Hamas protesters riot as Netanyahu visits DC,S,None,Indirectly,Hamas,None,IE,PS,BC,Peace,Relevant
+262,76ef940692090a704aaa1adaa3ac97e188ee35076e78434055c610d0b1295a86,US demands Israel conduct full investigation into Palestinian-American teen's killing,O,Directly,None,None,Palestine,VE,ES,BC,Peace,Relevant
+588,ea8efc353627375228d5b4aa160ddf3e0e180fc0f93566ce69fe0fee82e3903d,World Jewish Congress lauds mediator efforts to release Gaza captives,O,Directly,None,None,Palestine,IE,ES,BC,Peace,Relevant
+805,dcce0c5d0f48a4d6a1a4ee0edd980050e71fb4b2f4455ff4b52adc154c25cfbb,"Young liberal activists are 'disillusioned' with Biden, 'mad' about war in Gaza: 'Very precarious test'",S,None,None,None,None,IE,PS,BC,Peace,Relevant
+860,ca087f0ae4e50033adfefe3ce3e2dfe9f36f918e6e14e6ea1db74bd1dd85f022,US officials identify Buffalo Soldier killed in World War II,O,None,None,None,None,None,None,None,None,Irrelevant
+20,edbc95da327fe4ae83fb8e291de6f8a1c5da03c7777e896cfbdc81496e52d386,"Cruz race now a 'tossup' should be warning for Texas GOP, says expert",,None,None,None,None,None,None,None,None,Irrelevant
+701,474bb9f573f3e97ed0f51819228dbf712e8e915a5069de71f2b55ddbbaae1ee5,Colombian guerrillas launch multiple attacks against military as ceasefire breaks down,O,None,None,None,Hamas,VE,PS,None,None,Irrelevant
+333,409644d8fe76226e0872b1388f58c970ef28018f8cb0fe69a8bf4e9ed8bf8803,"Gaza ‘safe zones’ led to displacement, Israeli attacks on civilians: Report",O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+181,0c5bb116ae85e873649df2bc274be09c152123a985d6493fea24f1055395f65d,Israeli forces raid Gaza City's al-Shifa hospital,O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+391,fb1ada0b70d080a340289d8ad824299730fd9af1aa6321bcca091689410f2732,Gaza’s food is running out amid Israel’s ‘war of starvation’,S,Directly,Directly,Israel,Palestine,IE,None,BC,Peace,Relevant
+808,55afb607527b4ed6a6954535f9a4da1b145faba742c4d46d00e13a6d65520a06,Former Israeli general warns of growing threat of war with Hezbollah amid rising tensions with Iran proxy,O,None,None,None,None,IE,ES,BC,Peace,Relevant
+732,e61716688f84e85a4becf245a6a672a5f33855025aa72a5fbbba19274ead3e87,Netanyahu takes aim at 'rogue' ICC prosecutor after request for arrest warrants: 'Outrageous',S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+172,ed53820ef37c8d520eef59b3273050d8c7a13c8e57f445254876447985282c77,BBC Gaza reporter: My struggle to keep family safe while covering the war,O,Directly,None,None,Palestine,IE,PS,BC,Peace,Relevant
+5,f16e40f7cf24de34bc7ab3d15ca684c681607f929a86ced3f110c35da280632a,Why are Sudan’s warring sides blocking humanitarian aid?,O,None,None,None,None,IE,None,BC,Unclear,Relevant
+682,18bd53ae64f8e1cfc75f51c2da8cf6ab8aa71dc4c69feae4cbadc125e960cf7e,Arrest warrant issued for Central African Republic's former president over human rights abuses,O,None,None,None,None,None,None,None,None,Irrelevant
+76,3dcbe04f7e84257948a61462c56ff2b1a9595e07cb3d6319437df1c175999c04,Tribute to Scottish victim of Hamas attack on Israel,O,Directly,Directly,Hamas,Israel,VE,PS,BC,Peace,Relevant
+542,093b43f813c4ea144ac943c80f8a90375c659b19ea971e99b14f8d39bf126553,"Israel’s war on Gaza: List of key events, day 100",O,Directly,Directly,Israel,Palestine,None,None,WC,None,Relevant
+713,c7d4f969fabc0d983fe612ff4a9423c6bfb5aee800964ac04ef3467ce9d4c7c8,Sen. Fetterman breaks with President Biden on US response to Iran attacks: 'We should have Israel's back',S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+503,a237310ebce1951855b1b0867b263aa25c28cd6fc5d92eab4edad93ea73428a5,"Israel’s war on Gaza: List of key events, day 151",O,Directly,Directly,Israel,Palestine,None,None,WC,None,Relevant
+869,5b84ad2a6ebacc5ff07c6d007173d147ab5f1844108bf4b2a3095aa6d11618fa,UN top court orders Israel to open more land crossings for aid into Gaza,S,Directly,Directly,Israel,Palestine,IE,ES,BC,Peace,Relevant
+765,623033a2a413616d189fdc34b6164c330c80beb3eebecfe2e229b0e4d304fad1,How the UN emboldened Hezbollah terror regime as war with Israel imminent: 'Complete failure',S,None,None,None,None,IE,None,BC,Unclear,Relevant
+222,fb170ba4c48b68c099a04b142970afe63af95f6daa61ec21c702e1561373a213,Israel strikes southern Lebanon as Hezbollah leader warns 'red lines' crossed,O,None,Directly,Israel,None,VE,ES,WC,War,Relevant
+255,e1ff39c40f30cef07f7bd23daf71aa7e5a1808e3ded077ff570e768ca23c4709,How the US military plans to construct a pier and get food into Gaza,O,Directly,None,None,Palestine,IE,None,BC,Peace,Relevant
+441,bedcca094871b1942d2f7f77b9cdcbc5d166537dfd4cd90590798cf40563bfe6,Israeli military expands evacuation order for Gaza’s battered Khan Younis,O,Directly,Directly,Israel,Palestine,VE,None,WC,War,Relevant
+116,7dbfd9aa81062359d8e5a4fb06d80cefbb16d12cf22d68e525b9cd2d5d3beb7b,Universities brace for disruption at commencements by Gaza war protesters,O,None,None,None,None,IE,PS,BC,Peace,Relevant
+157,c6de5ac4a4b401629fb9b85f03edc9e1bd6fefe313ce3c78f951325998506e27,MI5 fears Israel-Gaza war could fuel radicalisation,S,None,None,None,None,IE,PS,BC,Peace,Relevant
+735,64e2783c633f0bf78776b3984fb8be5f8ef59ab12481147cd73b6bfbecb9f96c,Biden ripped for decrying 'Islamophobia' amid antisemitic campus protests: 'Yet another equivocation',S,None,None,None,None,IE,ES,BC,Peace,Relevant
+279,cb40215d3ab7538cc405df14ccfac9e697e3bd6616a2937bcb4b4c6554372068,"Newshour, Israel says Killing of Hezbollah leader is 'historic turning point",S,None,Directly,Israel,None,VE,None,WC,War,Relevant
+122,330f55f43d1b2464b23db0f2bd152e4fffea6cbda7a53c757e7e88baba8463df,Israel-Gaza war: US carries out its first aid airdrop in strip,O,None,None,None,None,VE,None,BC,Peace,Relevant
+744,cd0e6f1b6ac18beec5fb0f66acf9b40b6ab3379838099df2f40db1ac999d3258,US warships come under attack in Red Sea as nearly two dozen incoming missiles and drones shot down,O,None,None,None,None,VE,None,WC,War,Relevant
+642,9f8d2718ccd775d16a33a7a13dd7bce5093603621bc43496f4ce09d44e0aed53,"Egyptian president ‘rejects’ effort to push Palestinians to Egypt, warns it could jeopardize peace with Israel",S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+264,9877f4bfd62e93403db50523f3919b2a648f0678ece4607f12954628c57c87df,UN warns of catastrophe in Darfur,S,None,None,None,None,IE,ES,None,None,Irrelevant
+10,99227f91df45588dbec052ef65f341866f8e82d34131ccb6c02ddeaadac54c3a,Israel frees hospital chief with prisons ‘full’ of Gaza captives,O,Indirectly,Directly,Israel,Palestine,IE,None,WC,Peace,Relevant
+548,63ac5eeb52f73aaef2c85e8a07bae42beab6765e5ecb8c949776d1e3b4adad2f,"Israel’s war on Gaza: List of key events, day 154",O,Directly,Directly,Israel,Palestine,None,None,WC,None,Relevant
+306,7030b2c361abac93bd4c16998c6825b89865305af5931750599a41ff0a5a2ae9,Assad arrest warrant: ‘Hope and pain’ for Syrian chemical attack survivors,S,None,None,None,None,None,None,None,None,Irrelevant
+897,188eba3ecfe46c877401a1c3f23bf0c03b5beaa29487c2538d8757b1ae6eb08c,US lawmakers see wave of new bills aiming to define antisemitism,O,None,None,None,None,IE,PS,BC,Unclear,Relevant
+362,cbde66f008837cc7e3c9bf3e9c6312b6c74f8cd1fb1fe2a57dba5109d4a4179a,Video: Hijabi women arrested during US anti-war protest,O,None,None,None,None,IE,PS,BC,Unclear,Relevant
+271,c87ff83aa103ad09b658cc4d812f482dee6de3e5266510d43932d161b26721ee,The Global Story - Braced for war: Life inside Lebanon,S,None,None,None,None,None,None,None,None,Irrelevant
+14,6dd5f7b0a65bc28d9b7e48053e93b8fa80fd8f1a8260f927dea6268555551547,Photos: Rafah is a rubble-strewn ghost town two months after Israel invaded,S,Indirectly,Directly,Israel,Palestine,VE,None,WC,Peace,Relevant
+263,7008454068b17ebc44d5e9afd7e90e0e6acce157028ef54d5b329918a37cabc5,Richhill: Unexploded World War Two mortar disposed after alert,O,None,None,None,None,None,None,None,None,Irrelevant
+45,eb208c73faf2224a6273897d64cb800700f5f76da8b09dece0f7575aa128625a,Voter breaks silence after Biden campaign staffer tried to end interview critical of the president: 'Chilling',O,None,None,None,None,None,PS,None,Peace,Irrelevant
+553,ab57c2f7d2d7efa6fd7620443c732aa3ac8326e4a8b8be606fedfb436c6d630a,"Israel’s war on Gaza: List of key events, day 155",O,Directly,Directly,Israel,Palestine,None,ES,WC,None,Relevant
+162,bf27333d43a6e05e2fd63ad97493cc2710200e7a2a0f8875188d57d589bd478f,"Bradford: Four arrested after pro-Palestine protest, say police",O,None,None,None,None,IE,PS,BC,Unclear,Relevant
+39,69501b668155c21dd9da07393db0bbb6f7ba266326e0e32eff32dac484b1a62f,Dearborn’s anti-Biden activists won’t rubber-stamp president’s Harris endorsement,S,None,None,None,None,None,None,BC,None,Irrelevant
+64,d4e651cf97b943c1379af5a316498d37a00ec3b60dd453f93f15664c371d32e1,"Israel Gaza war: Hamas-run health ministry says Gaza death toll passes 10,000",O,Directly,None,None,Palestine,VE,PS,WC,War,Relevant
+762,8fdc704149b04d9184a1958c6dbddfef37d755c3342fa43029da946f7e776c2f,Outspoken Black man': 'Squad' Rep Bowman points to this reason for pro-Israel lobby's attacks,S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+865,53b2bfffdabd220fa0fc7d64e62cf9032ba2e3c28b46f908dc52880b99aa21b9,Heavy metal star issues on-stage rebuke of Hamas in support of Israel after young fan gives him gift,O,None,None,None,None,IE,PS,BC,Peace,Relevant
+557,791b8e18ee1137a432e401b1f50627e05a946c8463e774cd9759a1abd29c7d98,Children among those killed after Israel bombs two schools in Gaza,O,Indirectly,Directly,Israel,Palestine,VE,PS,WC,War,Relevant
+409,ed7f5b6176637d33df1d5e2996a38a56a03404a9a0fd7303c66f4e41947ed0fb,Violence escalates between Israel and Lebanon’s Hezbollah amid Gaza assault,O,Directly,None,None,Palestine,VE,None,WC,War,Relevant
+253,6b02652f5d9c63bf950c8fa32be1ecd3e620d0b76d49c41484ca80c17b505b95,Red Sea attacks: Greek vessel hit by missile fired by Houthi rebels,O,None,None,None,None,None,None,None,None,Irrelevant
+308,d31541404dfcd83a76945d9d79dae04b5b69a5f31b689a7f9a267caf62dcebe8,What military aid the US is sending to Israel after Hamas attack?,O,Directly,Directly,Hamas,Israel,IE,None,BC,Unclear,Relevant
+873,a689c9ff18a542ecc44d764d71e7be6c33c739520822a891d66c639f36fd4732,Argentina arrests 3 for alleged terror cell connections,O,None,None,None,None,None,None,None,None,Irrelevant
+879,acfc6478dc4a1d45404bfcc418c67922a50e695eec680c1fd46ed2dccfb387b3,"Israel identifies 100 UNRWA employees who work as 'terrorist operatives', asks for their dismissal",S,Directly,Directly,Hamas,Israel,IE,None,BC,Peace,Relevant
+680,5f0c59b6009d6634f5c514120a2dd37571fa18ddc41083950d537d80c6e2eb81,"Stefanik grills Harvard president over students calling for 'intifada,' rampant antisemitism on campus",S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+49,4f83262628859e8ad6465cb90c031797a7962f309be403b4473e0bab1a94ac40,Israel-Gaza war: Hamas responds to ceasefire offer with 135-day truce plan,O,Directly,Directly,Israel,Palestine,IE,None,WC,Peace,Relevant
+144,e582bcd7cc514093fcc5e8b33874ca229e1e3796ae7f563d145fdfcd03b96bc1,US sanctions individuals implicated in West Bank attacks,S,None,None,None,None,IE,None,BC,Peace,Relevant
+356,5f210472cd09c7986bb8121db65a8c39e2ee5da5096f617b39b67a1eced5a1fb,‘Terrorism’: Israel-Hamas conflict has gone ‘beyond war’ says Pope Francis,S,None,None,None,None,IE,ES,BC,Peace,Relevant
+624,172781074edb4476e3e2ceec0108b5064635d8feea2893b55ceab6fe9b206f66,"Hamas attack on Israel rocks 2024 presidential campaign, instantly altering the political conversation",O,Directly,Directly,Hamas,Israel,IE,None,BC,War,Relevant
+1,8afb0a1f4ea7bf1f4bd846c19ddda346b87b91e852a5dda4f425500dd01528a1,"Israel will be the ‘ultimate loser’ in war with Hezbollah, Iran says",S,None,None,None,None,IE,ES,BC,Unclear,Relevant
+896,1b584490560d7ec736b54c00d2a790325821708660d088a918cfe9315350271b,Ohio politicians react to Biden visiting East Palestine after 1 year: 'Too little too late',S,None,None,None,None,IE,PS,BC,Peace,Relevant
+664,0c5285e4146c8a70e1fb9968e2689aa3c648041a1eb1cf3d1c59fc2274cf9676,Greta Thunberg interrupted at climate protest after changing the topic to the Israel-Hamas war,O,None,None,None,None,IE,PS,BC,Unclear,Relevant
+378,45e81dd1924e1aa823d324f6d5f0989f9884a036fcf623123bdb28fd340024d4,What’s behind Israel’s threat to attack Rafah?,S,Indirectly,Directly,Israel,Palestine,None,None,BC,Unclear,Relevant
+204,4fb0b90c8af7526d3cb34415e947729dbb3dff1d2afeea91ccb4a52a9d9e9bc2,France bans 28 Israeli settlers over West Bank violence,O,None,None,None,None,IE,None,BC,Peace,Relevant
+495,1ed2810e8fd0f5e83f80ddf08098fe164e9d8e242b012f3a556babd55bcf2eb9,Israeli army launches attacks on targets in Syria and Lebanon,O,None,Directly,Israel,None,VE,None,WC,War,Relevant
+380,d80653f50360e63f00b3fd52ae1269b406dc8afa8371017eb23dc9d280a8de0a,How Israel’s war on Gaza is destroying Palestinian education,S,Directly,Directly,Israel,Palestine,IE,None,BC,Peace,Relevant
+452,67cb737159df1553952ed11a54afdb7280ee3ee779c99026aa9f6a0b1004e14a,Six months of devastation in Israel’s war on Gaza with no sign of an end,S,Directly,Directly,Israel,Palestine,VE,None,WC,Peace,Relevant
+497,674e71bda1b9c05dde3ec144e49562af090b1d9bf8273cccdd80331621f055e4,How is satire being used to highlight Israel’s war on Gaza?,O,None,None,None,None,IE,None,BC,Unclear,Relevant
+841,964a754c3ff37ab9f67f359e810aea29951f1e8ca58c22c63ae213d0091d67d2,"Hamas, Iran leaders delight in cease-fire call, US no-vote: 'Fateful turning point'",S,None,None,None,None,IE,ES,WC,Peace,Relevant
+506,9bae24061c65ded63f67a3f103f0c05ff49111a594625b9e3b7d2231238a6d93,"Most Britons back immediate ceasefire in Gaza, Israeli arms embargo: Poll",O,None,None,None,None,VE,PS,BC,Peace,Relevant
+615,820f8dc641e97aeea9587ef85706f34147ae310d24973df29896d6151da3f83f,Hamas terror leaders hiding across Middle East away from war in Gaza,O,None,Directly,Hamas,None,VE,None,WC,Unclear,Relevant
+715,c8ee7e71ba02e62dd5d347996075d3076f4968597efcac5449cfcf2d8861c8a2,US and Chinese diplomats agree to strengthen ties and prevent escalation of Israel-Hamas war,O,None,None,None,None,IE,ES,BC,Peace,Relevant
+691,f370edc03a15a410bb3deaea3a01805a96da243a290ea67765f15dd997e05769,"Outraged staff, parents slam Minnesota teachers union's 'antisemitic, hostile' stance on Israel-Hamas war",S,None,None,None,None,IE,PS,BC,Unclear,Relevant
+79,853bb0fb92df696bddcb4c7b4078059e0a0f88a45f9d03cce2fffa92777afa82,Unicef: Situation for children getting worse in Israel-Gaza war,O,Indirectly,None,None,Palestine,IE,ES,BC,Peace,Relevant
+717,648952ff45d8f3a50a1b03ffb6d9f333c06be68c0fcb336625a7cc7f5e53ed2c,Israeli troops withdraw from Shifa Hospital in Gaza: IDF,O,Indirectly,Directly,Israel,Palestine,VE,None,WC,Peace,Relevant
+889,9ffd112d955acf9d81f6157226b670b9aa41aed4132c1429e0006f0e4787c684,Oscar celebrities accused of wearing 'symbol of bloodlust' originating from Palestinians 'lynching' 2 Israelis,S,Directly,Directly,Palestine,Israel,VE,PS,BC,None,Relevant
+283,bb748a2e3c74e1504b5efffca8348f2340b5acd33603e75fb129cc1fde1fd641,Clashes continue in Bangladesh despite nationwide curfew,O,None,None,None,None,None,None,None,Unclear,Irrelevant
+34,31d73b7112a8f9caec914a90e107fb78e7cec5ff963d4279cab9e8d38c421608,"3 years later, Afghanistan War veterans haven't forgotten – have you?",S,None,None,None,None,None,None,None,None,Irrelevant
+892,19e18e355d1543b1dacf6d022470a791a2958842d71b70d28d8ef00cc8f9ae12,"Bill Clinton, Barack Obama, raise a $25 million bulwark for Biden as Dems fret over Trump poll advantage",O,None,None,None,None,None,ES,None,None,Irrelevant
+812,c878df0beb857b0a732e9b10d4dca6b28cf3039a95e35d7702600a4a4e458029,Indiana reporter arrested for threats against pro-Israel officials: 'Kill every Jew',S,None,None,None,None,IE,PS,BC,War,Relevant
+494,9cebe8e5e2ed1f52c6d7d374a0a3564536f705e4bb11676d46765966b5ed47c7,Palestinian dies an hour after Israel arrests him from occupied West Bank,O,Directly,Directly,Israel,Palestine,VE,PS,WC,War,Relevant
+496,8e69aeaa9125dd92ab426bef3e0f176cf2cb2f5149485ad8d4d53570d47c832d,"Israel’s war on Gaza: List of key events, day 93",O,Directly,Directly,Israel,Palestine,None,None,WC,None,Relevant
+447,baf671034d529d38dc2a9dc7c267fc687e510142e5114449db3f87662bc085cd,Iran’s top diplomat discusses Israel’s war in Gaza with Hezbollah leader,O,None,None,None,None,IE,ES,BC,Unclear,Relevant
+781,00a7bf4e966c025ef34cc9f638a7428ad6c89ed1991fb2073e2da694de15fd24,"White House, Pennsylvania officials denounce anti-Israel restaurant protest: 'Blatant act of antisemitism'",S,None,None,None,None,IE,ES,BC,Peace,Relevant
+640,b9a0c4fe1a341c8a117db30a603a100581c13e7d65296875ff09059720cfdd18,"Netanyahu ready to make partial cease-fire deal, vows war will continue until Hamas is eliminated",S,None,Directly,Israel,None,IE,ES,WC,Unclear,Relevant
+154,8f62c2343717ad7cbd9f2182cdb543a6d54deae72c34598922e40d02be51adae,"More UK students occupy campuses, in Gaza protest",O,None,None,None,None,IE,PS,BC,Peace,Relevant
+432,30c70877b74b21259bd14a3c700c345b81fa84c25d010ae6eb998eda7e96b2bd,Is anywhere in Gaza safe from Israeli attacks?,S,Directly,Directly,Israel,Palestine,VE,None,BC,Peace,Relevant
+272,a1160b8ee231c75068517edeec363c0583c6a0fbead6585d71b4a95a67384d14,Israel says troops are preparing for a possible ground incursion in Lebanon,O,None,Directly,Israel,None,VE,None,WC,War,Relevant
+127,e1c47df5d23a3e2c06fee38a0567f430fe82ee899b11806829e32dc842439c1c,Americast - Could the Israel-Gaza war cost Biden the election?,S,None,None,None,None,IE,None,BC,None,Relevant
+824,66b33b13e7ed6810f76f6c9b10a2b7b377b11e400107f3c3bcb9eecf82f6bdf7,Michigan voters call on Biden to press for Israel cease-fire or risk defeat to Trump,O,None,Directly,Israel,None,IE,None,BC,Peace,Relevant
+545,7015a2098396821d1ba1fabfb7dc707607f4ecf5b5f00e0043c35e5f319ffe89,World recoils following Israeli attack on aid convoy,S,None,Directly,Israel,None,VE,None,BC,War,Relevant
+580,5282cac633703427e2f49c167d3c6c295f0b9bcfdb77b12a1a4a3e5611527b68,"Israel prepares for possible ground assault in Lebanon, military chief says",O,None,Directly,Israel,None,VE,ES,WC,War,Relevant
+487,0e814a6f6289b5b106b2356ae2d448488d58bdd0c69440b64fb6234b42c3f643,New Israeli border inspection point for Gaza aid won’t solve Rafah backlog,O,None,None,None,None,IE,None,BC,None,Relevant
+235,4d76462810b0f16f8e68fea8e4b376d0d22677c307670cd06081b0ed4cf7b01e,Why has the Gaza ceasefire come to an end?,S,Directly,None,None,Palestine,VE,None,WC,Unclear,Relevant
+210,b861a79b9fd3f14e960e7f4c0d8f775abf824109bd4317ac64ff62d5a724ae38,We are not fine': War casts shadow over Eid al-Fitr in Gaza,S,Directly,None,None,Palestine,IE,PS,BC,Peace,Relevant
+103,af7950803c29890e1bd30bf58a25e255fb4f5e8d9f838d9f1524ce63a02e4dbc,Campus protests: Hundreds arrested at universities across US as Gaza demonstrations continue,S,Directly,None,None,Palestine,IE,None,BC,War,Relevant
+529,89acb455293973d10729ead1095804288923f281b4782928cbecb2a0fe0506d0,"Israel’s war on Gaza: List of key events, day 113",O,Directly,Directly,Israel,Palestine,None,None,WC,None,Relevant
+142,afa7807513b84e4a94842a53dd9508a8fb8788a985953adb41166627ce727d09,Netanyahu: Israel will carry out Rafah offensive with or without deal,O,Indirectly,Directly,Israel,Palestine,VE,ES,WC,War,Relevant
+345,cc50e3118a9f92335f8f8ca51511e2635228a6aa983f99e1fb142506cb4d07cb,Gaza school attack renews calls for US to end support for Israel,O,Directly,Directly,Israel,Palestine,VE,None,BC,War,Relevant
+634,e2cf9a8c3e81a0c6cf1d8eff47e06220a21d9f0949340cab738f6d3f1efdad37,Hamas attack survivor pleads for release of 11-year-old Hamas hostage,O,None,Directly,Hamas,None,IE,PS,WC,Peace,Relevant
+158,77e98b85308868c02a4841d8dace55733c369e99676ff39a333de9ab9e33449a,Gaza/Israel protests: Met Commissioner calls for clarity,O,None,None,None,None,IE,ES,BC,Unclear,Relevant
+862,50c27c6eea5ae5630f951cd30146bf6dd7deacc65767973604d7228c6d1ceae8,Fox News ‘Antisemitism Exposed’ Newsletter: Jewish students feel targeted as college resumes,S,Indirectly,None,None,Israel,IE,None,BC,None,Relevant
+491,81f95dc19682a668c0b0e72bf53abeaad158158489830f8cc8f7d809cbe27a61,Gaza war extends toll on Israel’s economy,O,None,None,None,None,IE,None,BC,Peace,Relevant
+31,47c63b313b48959f4772d5f60b4cfb6dbfa62ae32fcf49aeb32cb501497c717b,"Trump campaign calls performance at Black journalist event ‘masterclass’ in fighting ‘fake' Harris, media",S,None,None,None,None,None,ES,None,None,Irrelevant
+736,1c014f440a80d979794dbb16ddb9d62d89b9db633d40d26e4633daae6755014a,Squad' member Rep. Tlaib calls for Netanyahu's arrest; GOP senators warn ICC of serious repercussions,O,None,Directly,Israel,None,IE,ES,WC,War,Relevant
+241,03edb2bd5415c3f45d7fce60e71e1f4b7c0f9b56a75898aa2ae9ff99af35400b,What is behind Turkey's staunch support for Hamas in Gaza?,O,None,None,None,None,None,None,BC,Unclear,Relevant
+150,8d02d6e53fa6b37090a42642af30fd73eb9300d75ec921c73b94621510c16f38,Kerem Shalom crossing: Israeli protesters hold up aid trucks to Gaza,O,None,Indirectly,Israel,None,VE,None,WC,War,Relevant
+520,84b847606e1096b5834f8ecc7e6aa7cb46e67cc6a1fc1bd79aa0a4596638479e,Photos: Mass protests in Israel as calls for captive deal intensify,S,Indirectly,None,None,Israel,IE,None,BC,War,Relevant
+689,9d3cf636d0fdc8ae43ad706da04fd22e254f828c3000c8d489cfa308f319fdcd,‘There is no life’ after Oct 7: An Israeli mother grapples with grief one year after Hamas’ devastating attack,S,Directly,Directly,Hamas,Israel,IE,PS,BC,Peace,Relevant
+718,1f0cab0aa043b390a45d569d99e0a9ba53857aa851d8cf42f0c376065acc09c1,John Kirby denies US involvement in Lebanon device attacks: ‘We want to see the war end’,S,None,None,None,None,IE,ES,BC,Peace,Relevant
+826,414d759102802fe0cb4e5b404c706a3ce9300c6b0b82e67da85de5497b823099,"Rob Reiner praises Harris camp, DNC for 'protecting' anti-Israel agitators' 'right to protest'",S,None,None,None,None,IE,ES,BC,Peace,Relevant
+71,55f5934bc10029bc8e1e0f6f7a088fdc4fcccf42d317421277a49e894fc2527c,Israel-Gaza attacks: Four arrests made at Manchester vigil,O,None,None,None,None,IE,None,BC,War,Relevant
+54,4e81f6c71052bcf8420aae982f9421b116f9aed158b76691736ff34af5971f44,Police warn of UK attack risk as anti-terror hotline calls surge,S,None,None,None,None,IE,PS,None,None,Irrelevant
+141,729e0fe4781d4f5a22364ceff2fea7b3b401b6bc42b9c43bb4a2a29c04772bec,Israel sends soldiers to north fearing attack from Hezbollah in Lebanon,O,None,None,None,None,VE,ES,WC,War,Relevant
+692,f077b21c7b2d2ccd9be51b7d8d2c30147d2799446f509efe886b0b78593da2ba,Israel slams German government’s decision to arrest Prime Minister Netanyahu over ICC warrant,S,None,None,None,None,VE,ES,BC,None,Relevant
+399,96636a070fff97e63101e7503497a1589a941ffce5e23846c50664e2e1b2c9ab,Greek FM: No review of Israel defence deals amid war on Gaza,O,None,None,None,None,IE,ES,BC,Unclear,Relevant
+793,2ba6185cbcb9d0a9521982bf4056aa3d126f127a41490a4fcda149aeafe0e56a,"Palestinian protesters release maggots, crickets in Watergate Hotel in protest of Netanyahu visit",O,Directly,Directly,Palestine,Israel,VE,PS,WC,War,Relevant
+899,3262885b13a6410859389d7c10ad51bffb9c74092fe5922f8de96c6157b57d27,Are Israel’s attempts to demoralise the Palestinians backfiring?,S,Directly,Directly,Israel,Palestine,IE,None,BC,Peace,Relevant
+105,e789b4831cbd6998333372006f07bcf9dae65a6e3d4c3d3b1db6d4ab372f7c9f,"Global News Podcast, Iran launches massive missile attack on Israel as Netanyahu vows 'consequences",S,Directly,None,None,Israel,VE,None,WC,War,Relevant
+372,92c6ded7c58fce5d2110ad062797e9b320b85e508f54e7f2c553c0999d69a002,Group of 28 premature Gaza babies evacuated to Egypt amid Israeli attacks,O,Directly,Directly,Israel,Palestine,VE,None,WC,Unclear,Relevant
+775,6aa52dd178a8b7a8e885c98c51c7cdfeff5cc972ec5fe581fb1f13ba53ab83c9,Orthodox Jewish student sues Columbia over 'virulently hostile' environment in the wake of Oct. 7 attack,O,Indirectly,None,None,Israel,IE,PS,BC,None,Relevant
+635,412860fc031ee637db301829af6be74a80f4e738459107bb77789f8aba79a1aa,"Irish-Israeli girl, 9, whose father thought she was killed by Hamas terrorists among hostages freed from Gaza",O,Directly,Directly,Hamas,Palestine,VE,PS,BC,Peace,Relevant
+352,e0cfcc92c9a45a0d473e315be07c24c2c040eb0850d9ad1263764672aa0013e6,"Biden says Gaza ceasefire in sight, warns against efforts to undermine deal",O,None,None,None,None,IE,ES,BC,Peace,Relevant
+891,541b5b3955b7942d48b2239b9a2ef4265016410a0238b69469931fe61365f2bc,"Taiwan stands as major line of defense against global war with China, critical for US security",O,None,None,None,None,None,None,None,None,Irrelevant
+893,11974d1edd1e50d225f7989dcb49190077b9cfa6933072e7f81c060c4e7a2bb1,"CNN anchor invokes Nazi Germany, blasts Trump's 'antisemitic and incredibly dangerous' remarks on Jewish Dems",S,None,None,None,None,None,None,BC,War,Relevant
+733,41d7b26b251b0fb34b0874c8ed0a6479187eadbd32c06a5b4f2f93aa46488f25,Netanyahu presses importance of Rafah invasion to eliminate Hamas: 'No force in the world will stop us',S,Directly,Directly,Israel,Hamas,None,ES,WC,War,Relevant
+202,f81f8fb6374f289ae761ff7ab4352f5a331a91f40b04aa4262ea7e494a6d0dce,Israel Gaza: Negotiations delay UN vote urging pause in fighting,O,None,None,None,None,None,None,BC,Peace,Relevant
+124,543b015528eb012a56e13f85ee0c7bad80d6f1287a576212f5346ca6532e53c8,Pressure grows for a further halt to the Israel-Gaza war,O,None,None,None,None,IE,None,WC,Peace,Relevant
+501,bab7ac16d892081660080e9d4ff7c59fcbf61398bd5c298acf4e2abc84e22d5b,"Israel’s war on Gaza: List of key events, day 115",O,None,None,None,None,None,None,WC,None,Relevant
+622,7a06e3b7a1a788499fcf3b8ae10a93d53d53ca05d1d8c68975529c18207b6dde,42 reported attacks on US forces in wake of Israel-Hamas war: official,O,None,None,None,None,VE,ES,WC,War,Relevant
+215,f996941d1c6b2a7d2418b02ce0af0417e7c9800d9dc1d13f93e98295d2772a65,"Newshour, Doctor in Gaza: ""The wards are overflowing",S,Indirectly,None,None,Palestine,VE,PS,BC,Peace,Relevant
+37,85416fa467e9c8edf6f1193109d635119049e2a1320425d74fb14bc4a3765952,Israeli PM Netanyahu to address Congress amid high-profile absences,O,None,None,None,None,VE,ES,WC,Unclear,Relevant
+651,1d4acf08edccad0a7f989a4798f4986ea4679440492aebd89cf656c33777400d,"Fox News ‘Antisemitism Exposed’ Newsletter: Fetterman blasts Harvard, migrant arrested for antisemitic attack",S,None,None,None,None,IE,None,BC,None,Relevant
+415,fe8ca6e741e60ae9fb260ec54424ce53256695b11a7ea63245023f951c4f3968,Palestinian teen’s devastating journey through the Gaza war,S,Directly,None,None,Palestine,IE,PS,BC,Peace,Relevant
+363,12a78cbd5152c7f828b6c09568fcb7c7ea199c2d2d8eaf2d70878ab8240e5203,Columbia extends deadline to end Gaza war protest by 48 hours: All to know,O,None,None,None,None,IE,ES,BC,Peace,Relevant
+8,ed3c76e3701e5e0e91fdbff14523da9785baae4675f89296dc4c26666af6cc5c,Exclusive: Al-Tabin attack ‘deliberately timed to cause maximum casualties’,S,Indirectly,None,None,Palestine,VE,None,WC,War,Relevant
+167,1766b68a316963e212a5c5ee2239c50ccef34ac12559fe02b813ecb5ac464287,Thousands of Palestinians flee central Gaza as Israeli troops advance,S,Directly,Directly,Israel,Palestine,VE,None,WC,Unclear,Relevant
+389,8f392f06d53124190aa4d8bc58446ec097f35c75110dd1eabb315c59513900e4,One year of Israel’s war on Gaza: Key moments since October 7,O,None,None,None,None,None,None,BC,None,Relevant
